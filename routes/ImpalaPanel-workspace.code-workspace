@@ -1,0 +1,19 @@
+fetc{
+	"folders": [
+		{
+			"path": "C:\\wamp64\\www\\SvolinAdmin"
+		},
+		{
+			"path": "C:\\wamp64\\www\\SvolinAlpha"
+		},
+		{
+			"path": "..\\..\\LaravelBlog"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "analytics"
+	}
+}
